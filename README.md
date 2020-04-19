@@ -100,6 +100,11 @@ convert these colmuns to the readable columns :
 #### Installation (recommended for data manipulation )
     pip3 install pandas
     pip3 install numpy
+    
+#### Installation (recommended for scraper)
+    pip3 install requests
+    pip3 install selenium
+   and download the chrome or firefox driver for using in selenium
 
 ### Written By
 
