@@ -12,6 +12,14 @@ Chocolate is one of the most popular candies in the world . because of this , th
 
 * http://flavorsofcacao.com/index.html
 
+### Rating Scale
+ 
+* 4.0 - 5.0   = Outstanding
+* 3.5 - 3.9   = Highly Recommended
+* 3.0 - 3.49 = Recommended
+* 2.0 - 2.9   = Disappointing
+* 1.0 - 1.9   = Unpleasant
+
 ### Chocolate Review Data Analysis
 According to our research, many people have done analyzes on chocolate review like [Exploratory Data Analysis with Chocolate](https://www.kaggle.com/thedatabeast/exploratory-data-analysis-with-chocolate) , but all of  their datasets are imperfect .
 
