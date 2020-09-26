@@ -122,8 +122,7 @@ convert these colmuns to the readable columns :
 
 
 ### Lisence 
-See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License 
-
+See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License.
 
 
 
